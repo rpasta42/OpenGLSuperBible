@@ -1,4 +1,4 @@
-MAIN = Triangle
+MAIN = Test
 SRCPATH = Src/
 SHAREDPATH = ../Src/GLTools/src/
 SHAREDINCPATH = ../Src/GLTools/include/

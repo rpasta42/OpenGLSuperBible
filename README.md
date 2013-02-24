@@ -1,4 +1,4 @@
 OpenGLSuperBible
 ================
 
-code for OpenGL Superbible Code
+code for OpenGL Superbible
